@@ -5,7 +5,7 @@ import telebot
 import time
 
 # Initialize the bot
-bot = telebot.TeleBot('6299712350:AAExbr_GuH68xou3M8QjyfhWN713GuFpU24')
+bot = telebot.TeleBot('your_telegram_token')
 
 # Global variables for tracking the parsing process and output
 min_price = None
